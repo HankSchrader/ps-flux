@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9c65f20-eeb2-418e-966b-cb7b16de2571" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tools/apiServer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/createMockDb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/db.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mockData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AboutPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HomePage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
@@ -15,6 +12,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,6 +49,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -74,7 +79,9 @@
       <option name="presentableId" value="Default" />
       <updated>1583586332996</updated>
       <workItem from="1583586335571" duration="815000" />
-      <workItem from="1583674570429" duration="1099000" />
+      <workItem from="1583674570429" duration="1532000" />
+      <workItem from="1583685525219" duration="434000" />
+      <workItem from="1584195941485" duration="1142000" />
     </task>
     <servers />
   </component>
