@@ -8,6 +8,7 @@ function HomePage() {
         <p>
             React, Flux, and React Router for ultra-responsive web apps.
         </p>
+            <a href="/about">About</a>
     </div>
     );
 }

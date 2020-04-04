@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9c65f20-eeb2-418e-966b-cb7b16de2571" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AboutPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HomePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CourseList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CoursesPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/Header.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AboutPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AboutPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HomePage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,11 +51,15 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -82,6 +91,10 @@
       <workItem from="1583674570429" duration="1532000" />
       <workItem from="1583685525219" duration="434000" />
       <workItem from="1584195941485" duration="1142000" />
+      <workItem from="1584207315051" duration="43000" />
+      <workItem from="1584226512377" duration="4401000" />
+      <workItem from="1585355541586" duration="274000" />
+      <workItem from="1586034613114" duration="2341000" />
     </task>
     <servers />
   </component>
@@ -93,5 +106,30 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1583586711493" />
+    <state x="144" y="79" key="DiffContextDialog" timestamp="1584284851419">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="144" y="79" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1584284851419" />
+    <state x="480" y="83" key="RollbackChangesDialog" timestamp="1584284853750">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="480" y="83" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1584284853750" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1584228589057">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1584228589057" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1584284915425">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1584284875398" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.822@0.23.1440.822" timestamp="1584284915425" />
+    <state x="368" y="191" width="703" height="518" key="find.popup" timestamp="1586035430567">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="368" y="191" width="703" height="518" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1586035430567" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1586035966792">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1586035966792" />
   </component>
 </project>
