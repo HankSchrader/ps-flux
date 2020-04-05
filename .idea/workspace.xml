@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9c65f20-eeb2-418e-966b-cb7b16de2571" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/ManageCoursePage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NotFoundPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/TextInput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/TextSelect.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/CourseList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CourseList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/CoursesPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CoursesPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/HomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HomePage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/common/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CourseForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CourseForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ManageCoursePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ManageCoursePage.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +89,7 @@
       <workItem from="1584207315051" duration="43000" />
       <workItem from="1584226512377" duration="4401000" />
       <workItem from="1585355541586" duration="274000" />
-      <workItem from="1586034613114" duration="5119000" />
+      <workItem from="1586034613114" duration="9320000" />
     </task>
     <servers />
   </component>
@@ -127,9 +122,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="368" y="191" width="703" height="518" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1586035430567" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1586035966792">
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1586046580897">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1586035966792" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1586046580897" />
   </component>
 </project>
