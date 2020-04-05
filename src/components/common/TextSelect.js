@@ -9,13 +9,13 @@ function TextSelect(props) {
     }
     return (
         <div className={wrapperClass}>
-            <label htmlFor={props.label}>{props.label}</label>
+            <label htmlFor={props.id}>{props.label}</label>
             <div className="field">
                 <select
                     id={props.id}
                     name={props.name}
                     onChange={props.onChange}
-                    value={props.id || ""}
+                    value={props.value || ""}
                     className="form-control">
                     <option value=""/>
                     <option value="1">Cory House</option>

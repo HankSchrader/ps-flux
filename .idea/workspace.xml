@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9c65f20-eeb2-418e-966b-cb7b16de2571" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/common/TextInput.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/TextSelect.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/CourseForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CourseForm.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/ManageCoursePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ManageCoursePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/common/TextInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/TextInput.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/common/TextSelect.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/TextSelect.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/tools/db.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +93,7 @@
       <workItem from="1584207315051" duration="43000" />
       <workItem from="1584226512377" duration="4401000" />
       <workItem from="1585355541586" duration="274000" />
-      <workItem from="1586034613114" duration="9320000" />
+      <workItem from="1586034613114" duration="12507000" />
     </task>
     <servers />
   </component>
@@ -113,11 +117,12 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1584228589057" />
-    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1584284915425">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586091646262">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1584284875398" />
     <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.822@0.23.1440.822" timestamp="1584284915425" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.825@0.23.1440.825" timestamp="1586091646262" />
     <state x="368" y="191" width="703" height="518" key="find.popup" timestamp="1586035430567">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
