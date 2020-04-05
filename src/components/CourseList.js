@@ -33,7 +33,7 @@ export default CourseList
 /*
 Proptype are helpful because they document the objects shapes and let people know what to expect from props.
  */
-CourseList.prototype = {
+CourseList.propTypes = {
     courses: PropTypes.arrayOf(
         PropTypes.shape({
             id: PropTypes.number.isRequired,
